@@ -6,6 +6,6 @@
 Clone the repository and install dependencies using Poetry:
 
 #### ```bash
-#### git clone https://github.com/btomlinson237/cs561finalProject.git
-#### cd cs561finalProject
+#### git clone https://github.com/btomlinson237/ML-SarcasmDetection
+#### cd ML-SarcasmDetection
 #### poetry install
